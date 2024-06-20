@@ -1,0 +1,10 @@
+CampaignTitle|CampaignStart|CampaignEnd|AdvertisementTitle|ContactMethodTitle|TransactionAmount|TransactionTypeCode|TransactionTypeDesc
+2024 Holy Week Programming|2/14/2024|3/31/2024|Holy Week Ad||10000|D|Development
+2023 Eucharistic Pilgimmage|1/1/2022|6/8/2023|2023 Eucharistic Con. Email|Email|20000|D|Development
+2023 Eucharistic Pilgimmage|1/1/2022|6/8/2023|2023 Eucharistic Con. Email|Email|500|V|Vendor
+2024 Calandar|9/15/2023|12/31/2023|Calendar Mailing|Mail|15000|D|Development
+2024 Calandar|9/15/2023|12/31/2023|Calendar Mailing|Mail|5000|L|Labor
+EWTN Donation Request|1/1/2010||Donation Request Call|Phone|1000|D|Development
+EWTN Donation Request|1/1/2010||Donation Request Call|Phone|100000|L|Labor
+EWTN Donation Request|1/1/2010||Donation Request Email|Email|20000|D|Development
+EWTN Donation Request|1/1/2010||Donation Request Email|Email|5000|V|Vendor
